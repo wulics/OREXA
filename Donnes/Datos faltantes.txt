@@ -1,0 +1,9 @@
+-Datos des appareils
+-Bureaux
+-(forms)Commande client
+-(forms)Commande Fournisseur
+-Echantillon (N_appareeil, N_performance)
+-Gamme (revisar con elsa)
+-Indicateur de performance (Otro equipo)
+-Lot de fabrication (N_ordre)
+-T_coms
